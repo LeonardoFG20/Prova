@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Vbox?>
+<?import javafx.scene.layout.Hbox?>
+<?import javafx.scene.layout.TilePane?>
+<?import javafx.scene.layout.GridPane?>
+	
+<Vbox xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+</Vbox>
+	
+<Hbox xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+</Hbox>
+	
+<TilePane xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+</TilePane>
+		
+<GridPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+</GridPane>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+</BorderPane>
