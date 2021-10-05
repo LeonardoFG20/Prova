@@ -1,0 +1,3 @@
+Eclipse: Necessario para compilar os códigos e instalar o plugin do javafx.
+SceneBuilder: Desenhar a interface.
+JavaFX Azul: JDK que contêm os módulos do javafx.
