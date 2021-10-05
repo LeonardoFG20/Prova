@@ -1,0 +1,4 @@
+BorderPane, GridPane, Vbox, Hbox, TilePane.
+
+Vbox: Componentes alinhados verticalmente.
+Hbox: Componeneste alinhados horizontalemente.
