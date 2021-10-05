@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<?import javafx.scene.layout.Button?>
+<?import javafx.scene.layout.Label?>
+<?import javafx.scene.layout.TextField?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+
+<GridPane xmlns:="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.GuiController">
+<center>
+<Pane prefHeight="117.0" prefWidth="586.0" BorderPane.alignment="CENTER">
+<children>
+<Button fx:id="btn" layoutX="241.0" layoutY="63.0" mnemonicParsing="false"
+onAction="#clicou" text="Click Aqui" />
+<Label layoutX="54.0" layoutY="22.0" prefHeight="16.0" prefWidth="146.0"
+text="Informe seu nome:" />
+<TextField fx:id="input" layoutX="200.0" layoutY="18.0" />
+</children>
+</Pane>
+</center>
+</GridPane>
