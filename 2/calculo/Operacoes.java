@@ -1,4 +1,4 @@
-package operacoes;
+package calculo;
 
 public class Operacoes{
 
