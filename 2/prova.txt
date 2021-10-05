@@ -1,0 +1,1 @@
+Desacoplamento e divisão de responsabilidades.
