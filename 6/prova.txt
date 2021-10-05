@@ -1,0 +1,1 @@
+API é um conjunto de rotinas e padrões, disponibilizados por um software para uso na aplicação.
